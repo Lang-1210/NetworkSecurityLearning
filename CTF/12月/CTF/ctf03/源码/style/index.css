@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* Developer:XY E-mail:yang3rui@163.com  QQ:364500483 */
+*{ margin:0px; padding:0px;}
+body{ font-size:12px;}
+img{ border:0;}
+ul{ list-style:none;}
+a{ text-decoration:none; color:#3E3E3E;}
+.clear{ clear:both; font-size:0px;}
+h3{ font:bold 13px/30px "宋体"; padding-left:15px;}
+.pages{ text-align:center; line-height:30px; font-size:13px;}
+.dotline{background-image:url(../images/dot_line.gif);background-repeat: repeat-x;background-position: bottom;}
+.line5{ width:100%; height:2px; border-bottom:#4D80F7 1px solid; overflow:hidden; margin:5px auto;}
+.line6{ width:100%; height:2px; border-bottom:#D9D9D9 1px solid; overflow:hidden; margin:8px auto;}
+
+#contain{ width:964px; margin:0px auto;}
+#head{ width:960px; margin:0px auto;}
+.h_logo{ width:960px; height:100px;}
+.h_nav{ width:960px; height:38px; margin-top:5px; background:url(../images/nav_bg.gif) no-repeat;}
+.h_nav li{ width:90px; float:left; text-align:center; font:bold 13px/38px "宋体"; color:#FFFFFF;}
+.h_nav li a:link{color:#FFFFFF;}
+.h_nav li a:visited{color:#FFFFFF;}
+
+/*焦点图*/
+#focus{ width:960px; margin:3px auto; font-size:0px;}
+
+/*主体内容*/
+#cont{ width:960px; margin:0px auto;}
+.c_l{ width:230px; float:left; margin-right:10px;}
+.c_l_t{ width:100%; height:30px; background:url(../images/l_t.gif) no-repeat;}
+.c_l_c{ width:228px; border:1px #ccdae0 solid; border-top-style:none; overflow:hidden; margin-bottom:6px;}
+.c_l_c_c{ width:210px; margin:5px 9px; overflow:hidden;}
+.c_l_c_c li{ font:13px/24px "宋体";}
+.c_r{ width:720px; float:right;}
+.c_r_t{ width:100%; height:30px; background:url(../images/r_t.gif) no-repeat;}
+.c_r_c{ width:718px; border:1px #dee0e0 solid; border-top-style:none; overflow:hidden; margin-bottom:6px;}
+.c_r_c_c{ width:700px; margin:5px 9px; overflow:hidden;}
+.c_r_c_cp{ width:100%;}
+.c_r_c_cp li{ width:150px; text-align:center; float:left; padding-left:20px; padding-top:13px;}
+.c_r_c_cp li span{ display:block; line-height:20px; margin-top:5px;}
+
+#foot{ width:960px; margin:5px auto;}
+.foot_line{ width:100%; height:2px; overflow:hidden; border-bottom:1px #6C6C6C solid;}
+.foot_dc{ width:100%; line-height:24px; text-align:center;}
+
+/*信息列表样式*/
+#dc{width:960px; margin:0px auto;}
+.dc_l{ width:720px; float:left; margin-right:10px;}
+.dc_l_t{ width:100%; height:30px; background:url(../images/r_t.gif) no-repeat;}
+.dc_l_c{ width:718px; border:1px #dee0e0 solid; border-top-style:none; overflow:hidden; margin-bottom:6px;}
+.dc_l_c_c{ width:698px; margin:10px; overflow:hidden;}
+.dc_l_c_c li{ width:100%; font:13px/30px Arial, Helvetica, sans-serif; border-bottom:1px dotted #82DCF2;}
+.dc_l_c_c li span{ float:right; color:#BFBFBF;}
+
+/*新闻信息展示页样式*/
+.dc_l_c_s{ width:698px; margin:10px; overflow:hidden;}
+.dc_l_c_s_t{ width:100%; height:30px; text-align:center; font:bold 14px/30px "宋体"; color:#3366CC;}
+.dc_l_c_s_l{ width:100%; height:18px; text-align:center; font:12px/18px "宋体"; color:#BEBEBE;}
+.dc_l_c_s_c{ width:100%; font:13px/24px Arial, Helvetica, sans-serif;}
+.dc_l_c_s_d{ width:100%; text-align:right;}
+
+/*产品信息列表样式*/
+.dc_l_c_p{ width:698px; margin:10px; overflow:hidden;}
+.dc_l_c_p li{ width:149px; float:left; padding-left:20px; text-align:center; padding-top:10px;}
+.dc_l_c_p li span{ display:block; width:149px; font:13px/22px "宋体";}
+.dc_r{ width:230px; float:right;}
+.dc_r_t{ wwidth:100%; height:30px; background:url(../images/l_t.gif) no-repeat;}
+.dc_r_c{ width:228px; border:1px #ccdae0 solid; border-top-style:none; overflow:hidden; margin-bottom:6px;}
+.dc_r_c_c{ width:210px; margin:5px 9px; overflow:hidden;}
+.dc_r_c_c li{ font:13px/24px "宋体";}
+
+/*客户案例列表样式*/
+.kf{ width:698px;}
+.kf_l{ width:240px; float:left; margin-right:18px; font-size:0px;}
+.kf_r{ width:440px; float:right;}
+.kf_r_t{ width:100%; height:26px; font:bold 14px/26px "宋体"; color:#FF3300;}
+.kf_r_c{ width:100%; line-height:22px;}
+
+/*人力资源列表样式*/
+.rlzy{ width:100%;}
+.gkktd{ line-height:30px; border:1px solid #CDCDCD; padding:0px 5px;}
+
+/*在线留言样式*/
+.tablecss{width:100%; margin:10px auto;}
+.tablecss th, .tablecss td{border:1px solid #86C2FF;}
+.tablecss th{background:#EEF7FF;width:158px;text-align:right;font-size:14px;font-weight:normal;padding:5px 0 5px 10px;color:#000}
+.tablecss td{background:#fff;padding:5px 0 5px 10px;}
+.tablecss span{color:#FF0000;margin:0 5px; font-size:12px;}

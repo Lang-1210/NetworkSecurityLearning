@@ -1,0 +1,28 @@
+body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+#app{
+    margin-top: 200px;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+.f{
+    margin: 0;
+    font-size: 500px;
+    color: red;
+    font-weight:900;
+    position: relative;
+}
+.i{
+    position: absolute;
+    top: 340px;
+    left: 120px;
+    color: red;
+    font-size: 12px;
+}

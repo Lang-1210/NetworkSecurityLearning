@@ -1,0 +1,8 @@
+123456
+password
+qwerty
+admin
+hello
+flag{md53454kfodkfkfdsmd5}
+root
+system
